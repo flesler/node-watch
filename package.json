@@ -1,0 +1,14 @@
+{
+  "name": "node-watch",
+  "version": "0.0.1",
+  "author": "Ariel Flesler <aflesler@gmail.com>",
+  "description": "",
+  "repository": "git://github.com/flesler/node-watch",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha":"latest",
+    "should":"latest"
+  },
+  "engines": { "node": ">= 0.6.x" }
+}
